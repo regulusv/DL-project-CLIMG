@@ -27,4 +27,4 @@ This work is to implement the above two approachs and make comparsion.
 
 ### Note
 
-`DL_Colorization_GAN_v1_0.ipynb` with full output is large to render, so the uploaded version is with part of output.
+`DL_Colorization_GAN_v1_0.ipynb` with full output is large to render in Github, so the uploaded version is with part of output.
