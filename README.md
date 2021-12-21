@@ -1,5 +1,5 @@
 
-
+# Abstract
 Automatic image colorization, which means colors greylevel
 images, has been a hot field due to its valuable applications
 like old-paragraph colorization. Traditionally, this
@@ -17,7 +17,7 @@ grayscale image.
 This work is to implement the above two approachs and make comparsion.
 
 
-Example Results:
+# Example Results
 
 
 ![Alt text](readme_images/image4.png?raw=true)
@@ -25,3 +25,6 @@ Example Results:
 
 ![Alt text](readme_images/image6.png?raw=true)
 
+### Note
+
+`DL_Colorization_GAN_v1_0.ipynb` with full output is large to render, so the uploaded version is with part of output.
