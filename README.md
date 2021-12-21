@@ -15,3 +15,9 @@ model predicts a color value to each pixel of the
 grayscale image.
 
 This work is to implement the above two approachs and make comparsion.
+
+
+Example Results:
+
+![Alt text](readme_images/image6.png?raw=true)
+
